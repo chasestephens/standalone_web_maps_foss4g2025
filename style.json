@@ -10,7 +10,7 @@
     },
     "te-ara-hura": {
       "type": "geojson",
-      "data": "/sources/te_ara_hura.geojson"
+      "data": "sources/te_ara_hura.geojson"
     }
   },
   "sprite": "https://protomaps.github.io/basemaps-assets/sprites/v4/light",
