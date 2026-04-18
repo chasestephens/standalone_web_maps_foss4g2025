@@ -568,16 +568,6 @@
       "paint": {"fill-color": "#cccccc", "fill-opacity": 0.5}
     },
     {
-      "id": "trail-line",
-      "type": "line",
-      "source": "te-ara-hura",
-      "paint": {
-        "line-color": "#e41f18",
-        "line-width": 3,
-        "line-dasharray": [2, 2]
-      }
-    },
-    {
       "id": "roads_pier",
       "type": "line",
       "source": "protomaps",
@@ -1041,6 +1031,16 @@
           18,
           9
         ]
+      }
+    },
+    {
+      "id": "trail-line",
+      "type": "line",
+      "source": "te-ara-hura",
+      "paint": {
+        "line-color": "#e41f18",
+        "line-width": 3,
+        "line-dasharray": [2, 2]
       }
     },
     {
